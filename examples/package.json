@@ -6,6 +6,6 @@
   "author": "Paul Elliott",
   "license": "MIT",
   "dependencies": {
-    "three": "0.112.0"
+    "three": "0.125.0"
   }
 }
